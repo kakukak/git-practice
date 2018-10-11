@@ -1,3 +1,5 @@
-im riting some thing to fill up the empy text file created
+Name: Ironhacker
+Age: 31
+im writing some thing to fill up the empy text file created
 text file
 in the folder git-practie
